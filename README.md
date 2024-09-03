@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @LmUnderscore
-- 👀 I’m interested in music, iceland, history
+- 👋 Hi, I’m @Lm
 - 🌱 I’m currently learning HTML
-- 📫 How to reach me ? --> discord ( Citron#7838 ) or Twitter ( @LmUnderscore )
 
 <!---
 LmUnderscore/LmUnderscore is a ✨ special ✨ repository because its `Hello.md` (this file) appears on your GitHub profile.
